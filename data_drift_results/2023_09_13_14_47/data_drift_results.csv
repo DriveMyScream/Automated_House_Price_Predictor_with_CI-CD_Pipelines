@@ -1,0 +1,10 @@
+Column,ZScore,critical_z,Result
+area,-1.596280943123362,1.9599639845400545,There is no difference
+latitude,-1.2148140360862387,1.9599639845400545,There is no difference
+longitude,-0.6810747052267819,1.9599639845400545,There is no difference
+Bedrooms,-0.9532352123603255,1.9599639845400545,There is no difference
+Bathrooms,-1.4228960681517193,1.9599639845400545,There is no difference
+Balcony,-0.8911739561546682,1.9599639845400545,There is no difference
+parking,-0.5284165721251837,1.9599639845400545,There is no difference
+Lift,-2.3979942630311393,1.9599639845400545,There is a difference
+Price_sqft,0.7634691178935453,1.9599639845400545,There is no difference

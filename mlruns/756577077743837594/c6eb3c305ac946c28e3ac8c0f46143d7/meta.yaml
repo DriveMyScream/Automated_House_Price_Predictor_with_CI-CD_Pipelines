@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ABC/Desktop/New%20Final%20Projects/House%20Price%20Predictions/New%20folder/mlruns/756577077743837594/c6eb3c305ac946c28e3ac8c0f46143d7/artifacts
+end_time: 1694596596872
+entry_point_name: ''
+experiment_id: '756577077743837594'
+lifecycle_stage: active
+run_id: c6eb3c305ac946c28e3ac8c0f46143d7
+run_name: upset-fish-275
+run_uuid: c6eb3c305ac946c28e3ac8c0f46143d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694596596773
+status: 3
+tags: []
+user_id: ABC
